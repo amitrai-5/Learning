@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// this is to check the behaviour
 int main()
 {
    //int arr[] = {5,10,1,3,16,8};
