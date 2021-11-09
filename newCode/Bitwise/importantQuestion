@@ -1,0 +1,11 @@
+- Printing the Binary of a number.
+- To know if the bit is set/reset at particular place.
+- Setting range of bits.
+- Converting big endian to little endian and viceversa.
+- Changing the nibble of a byte.
+- Reverse all bit positions in a byte.(last should be first and first should be last).
+- Toggle a bit at particular position in a number.
+- Convert htonl to ntonl (Network to host and host to network conversion).(<<24,<<8,>>8,>>24)
+- Passing bit in a function and for every passing bit check if previous bit was set(1) and count the occurance.
+- Print a 64 bits integer.
+

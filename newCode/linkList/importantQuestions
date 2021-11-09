@@ -1,0 +1,11 @@
+- Implementing a liner link list.
+- Insert an element at first, last and at the given position.
+- Reverse a link list without using temp and normal and by using recursion.
+- Delet an element of list at first, last and at the given position.
+- Get the intersecting point of a link list and how to remove the point of intersection.
+- Making a link list circular.
+- find the nth node from last, using double pointer.
+- Implementation of Doubly link list.
+- Hash table implementation using single link list.
+- finding the corrupted node in a link list.
+- Remove the duplicates in a link list.
